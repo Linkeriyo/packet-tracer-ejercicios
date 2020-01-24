@@ -14,5 +14,3 @@ Estas dos salas están conectadas físicamente mediante un switch el cual lleva 
 Este router permitirá conectar con una red de servidores propiedad de la empresa en otra localización.
 
 Estos servidores incluyen; un servidor HTTP (que aloja la página web de la empresa, <http://www.superempresa.com>) y con ip 192.168.0.3, un servidor DNS que contiene la dirección de el servidor HTTP con ip 192.168.0.2 y varios servidores adicionales con usos varios para la empresa.
-
-aaaaaa
