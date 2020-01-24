@@ -3,7 +3,7 @@
 Las redes de esta empresa han sido ideadas utilizando la cantidad mínima de recursos.
 
 La empresa contiene 7 oficinas con un ordenador cada una.
-Estos están configurados con una IP's estáticas que van desde la 192.168.1.3 hasta la 192.168.1.9.
+Estos están configurados con IP's estáticas que van desde la 192.168.1.3 hasta la 192.168.1.9.
 
 Además, en el mismo edificio hay una sala de reuniones, a la que los trabajadores llevan sus portátiles y los conectan a un punto de acceso Wi-Fi.
 A los dispositivos conectados a este punto de acceso se les asigna automáticamente una IP mediante
